@@ -12,4 +12,5 @@ function setup () {
 function  draw () {
    background (`green`)
    square (width / 2, height / 2, 100)
+   circle (width / 1)
 }
